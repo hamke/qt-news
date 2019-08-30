@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://news.wp-talk.com</loc>
+        <loc>https://news.qooltem.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
+        <loc>https://news.qooltem.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -16,7 +16,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
+        <loc>https://news.qooltem.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -24,7 +24,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
+        <loc>https://news.qooltem.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <loc>https://news.qooltem.com/wordpress-lesson/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
+        <loc>https://news.qooltem.com/china-website-loding-speed-slow/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <loc>https://news.qooltem.com/wordpress-119/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -56,7 +56,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
+        <loc>https://news.qooltem.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
+        <loc>https://news.qooltem.com/wordpress-child-theme-setting-wptalk/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <loc>https://news.qooltem.com/wordpress-developers-must-plugins/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
+        <loc>https://news.qooltem.com/wordpress-hosting-recommendation/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +88,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
+        <loc>https://news.qooltem.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
+        <loc>https://news.qooltem.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
