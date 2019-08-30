@@ -527,6 +527,7 @@
 
 
 
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133181811-5"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -534,6 +535,8 @@
   gtag('js', new Date());
   gtag('config', 'UA-133181811-5');
 </script>
+
+
 
 
 <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
@@ -546,7 +549,25 @@
 
 
 
-	<a id="chat-button" href="https://www.wp-talk.com/kakao/" target="_blank">
+
+<script type="text/javascript">
+  function offsetAnchor() {
+    if (location.hash.length !== 0) {
+      window.scrollTo(window.scrollX, window.scrollY - 70);
+    }
+  }
+  $(document).on('click', 'a[href^="#"]', function(event) {
+    window.setTimeout(function() {
+      offsetAnchor();
+    }, 0);
+  });
+  window.setTimeout(offsetAnchor, 0);
+</script>
+
+
+
+
+	<a id="chat-button" href="https://www.qooltem.com/kakao/" target="_blank">
 		<img src="https://hellotblog.files.wordpress.com/2019/07/kakaotalk-chat-button-100x100.png">
 	</a>
 	<a id="back-to-top" href="#" class title="Go To Top"><i class="fas fa-chevron-up"></i></a>
