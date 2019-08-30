@@ -8,14 +8,6 @@
     </url>
 
     <url>
-        <loc>https://news.qooltem.com/install-wordpress-local-webserver-wptalk/</loc>
-        <lastmod>2019-08-30T07:10:05.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.qooltem.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,6 +17,14 @@
 
     <url>
         <loc>https://news.qooltem.com/themeforest-wordpress-free-month-themes/</loc>
+        <lastmod>2019-08-30T07:10:05.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.qooltem.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2019-08-30T07:10:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

@@ -25,7 +25,7 @@
 #back-to-top {
     cursor: pointer;
     position: fixed;
-		background-color: #29709e;
+		background-color: #ee606e;
     bottom: 60px;
     right: 20px;
     display: none;
@@ -193,7 +193,7 @@ code {
 
 .search-keyword {
   color: #fff !important;
-  background-color: #29709e;
+  background-color: #ee606e;
   font-weight: bold;
   font-style: inherit !important;
 }
@@ -296,7 +296,7 @@ code {
 }
 
 .updated-post-date .date-block {
-  color: #29709e;
+  color: #ee606e;
 }
 
 @media (max-width: 500px) {
