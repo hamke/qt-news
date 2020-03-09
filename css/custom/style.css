@@ -1,3 +1,7 @@
+.adsbygoogle {
+  margin: 0 auto;
+}
+
 .adsense {
   width: 100%;
   margin: 0 20px 1rem;
@@ -25,7 +29,7 @@
 #back-to-top {
     cursor: pointer;
     position: fixed;
-		background-color: #ee606e;
+		background-color: #29709e;
     bottom: 60px;
     right: 20px;
     display: none;
@@ -193,7 +197,7 @@ code {
 
 .search-keyword {
   color: #fff !important;
-  background-color: #ee606e;
+  background-color: #29709e;
   font-weight: bold;
   font-style: inherit !important;
 }
@@ -225,6 +229,10 @@ code {
 .search-result-title {
   font-size: 2rem;
   font-weight: bold;
+}
+
+.shadow, .shadow img {
+  box-shadow: 0 0.5rem 2.5rem 0 rgba(0,0,0,0.2)!important;
 }
 
 .site-description {
@@ -289,6 +297,15 @@ code {
   margin: 2rem 0 0 !important;
 }
 
+.unlink {
+  pointer-events: none;
+  cursor: default;
+}
+
+.unlink a {
+  color: inherit !important;
+}
+
 .updated-post-date {
   text-align: right;
   font-size: 1.4rem;
@@ -296,7 +313,7 @@ code {
 }
 
 .updated-post-date .date-block {
-  color: #ee606e;
+  color: #29709e;
 }
 
 @media (max-width: 500px) {
